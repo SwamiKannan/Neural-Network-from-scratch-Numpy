@@ -1,3 +1,4 @@
+This is a series of projects where I build basic models from scratch using Python, Pytorch and Tensorflow
 # MNIST - Building a neural network using only Numpy
 
 ## Data:
